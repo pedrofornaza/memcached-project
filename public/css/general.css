@@ -1,0 +1,44 @@
+* {
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+article {
+    margin:20px auto;
+    width:700px;
+}
+
+h1 {
+    color:#404040;
+    font-size:30px;
+}
+
+section {
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 6px 6px 6px 6px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    margin:20px 0px;
+    padding:10px;
+}
+
+div.tweet {
+    color:#686868;
+    margin-bottom:20px;
+    font-size:18px;
+}
+
+div.author {
+    color:#707070;
+    font-weight:bold;
+    text-align: right;
+}
+
+footer {
+    margin:15px;
+    font-size: 18px;
+    text-align: center;
+}

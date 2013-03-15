@@ -1,0 +1,8 @@
+{
+    "autoload" : {
+        "PSR-0" : { "App": "/src" }
+    },
+    "require" : {
+        "fzaninotto/faker" : "*"
+    }
+}
